@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhijit191
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning openCV
-- 💞️ I’m looking to collaborate on youtube
 - 📫 How to reach me deyabhijit191@gmail.com
 
 <!---
